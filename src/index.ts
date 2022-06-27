@@ -1,7 +1,7 @@
-import {{ componentName }} from "./Component";
+import SearchButton from "./Component";
 
 export {
-    {{ componentName }}
+    SearchButton
 };
 
-export default {{ componentName }};
+export default SearchButton;
